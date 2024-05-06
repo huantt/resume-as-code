@@ -1,6 +1,10 @@
 ## Resume as code
 Write and maintain your resume using YAML/JSON.
 
+Try it here: https://topcv.vercel.app
+
+![img](public/images/demo.png)
+
 ## YAML Structure
 
 ```yaml
