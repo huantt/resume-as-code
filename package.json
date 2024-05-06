@@ -1,0 +1,42 @@
+{
+  "name": "resume-builder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.2",
+    "@react-pdf/renderer": "^3.1.13",
+    "@types/react-gtm-module": "^2.0.2",
+    "@uiw/codemirror-extensions-langs": "^4.21.19",
+    "@uiw/react-codemirror": "^4.21.19",
+    "dateformat": "^5.0.3",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.4",
+    "next": "13.5.3",
+    "react": "^18.2.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "^18.2.0",
+    "react-gtm-module": "^2.0.11",
+    "react-to-pdf": "^1.0.1",
+    "react-type-animation": "^3.2.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "yaml": "^2.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "@types/react": "^18.2.28",
+    "@types/react-dom": "^18.2.13",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "react-highlight": "^0.15.0",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.2.2"
+  }
+}

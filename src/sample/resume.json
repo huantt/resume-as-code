@@ -1,0 +1,76 @@
+{
+  "personal_info": {
+    "avatar": "https://bairesdev.mo.cloudinary.net/blog/2022/08/portrait-of-a-man-using-a-computer-in-a-modern-office-picture-id1344688156-1.jpg?tx=w_3840,q_auto",
+    "first_name": "Sophia",
+    "last_name": "Anderson",
+    "nickname": "Soph",
+    "title": "Full Stack Developer",
+    "phone": "123.456.7890",
+    "email": "sophia@example.com",
+    "website": "github.com/sophdev",
+    "address": "San Francisco, USA",
+    "gender": "female"
+  },
+  "sections": [
+    {
+      "heading": "About me",
+      "rows": [
+        {
+          "content_markdown": "Experienced Full Stack Developer with a passion for creating innovative web applications. Skilled in a wide range of technologies and frameworks, including:\n- Languages:\n  - Proficient: JavaScript (Node.js), Python\n  - Familiar: Ruby\n- Skills: Full stack development, DevOps, system architecture, UI/UX design, agile development, and project management.\n"
+        },
+        {
+          "content_markdown": "_I believe in using technology as a means to solve real-world problems.\nMy skills are a toolset, and I'm always eager to expand it. Let's connect\nand explore how we can work together to build amazing things._\n"
+        }
+      ]
+    },
+    {
+      "heading": "Summary",
+      "rows": [
+        {
+          "heading": "Languages",
+          "content_markdown": "JavaScript (Node.js) | Python | Ruby",
+          "divide": true
+        },
+        {
+          "heading": "Databases",
+          "content_markdown": "MongoDB, MySQL, PostgreSQL",
+          "divide": true
+        },
+        {
+          "heading": "Frontend",
+          "content_markdown": "React, Angular, Vue.js",
+          "divide": true
+        },
+        {
+          "heading": "Backend",
+          "content_markdown": "Express.js, Ruby on Rails, Flask",
+          "divide": true
+        },
+        {
+          "heading": "DevOps",
+          "content_markdown": "Docker, Kubernetes, Jenkins, Travis CI",
+          "divide": true
+        },
+        {
+          "heading": "Project Management",
+          "content_markdown": "Certified ScrumMaster® with experience leading agile development teams to deliver high-quality software products.",
+          "divide": true
+        },
+        {
+          "heading": "Side Projects",
+          "content_markdown": "I have a portfolio of personal projects, including a social networking app, a financial tracking tool, and a travel planning website. You can find more details on my GitHub profile.",
+          "divide": true
+        }
+      ]
+    },
+    {
+      "heading": "Work Experience",
+      "rows": [
+        {
+          "heading": "03/2020 - Present",
+          "content_markdown": "## **TechPros - InnovateRise**\n\n**Full Stack Developer**\n\n**From March 2020 - Present (InnovateRise)**\n\n - Led development efforts for a revolutionary social networking platform that connects professionals in various industries. The platform has gained 100,000+ users and secured $2 million in seed funding.\n\n - Implemented real-time messaging features, user authentication, and a recommendation engine using Node.js and React.\n\n - Orchestrated CI/CD pipelines with Docker, Kubernetes, and Jenkins, ensuring seamless deployments.\n\n - Collaborated with UI/UX designers to create an intuitive and visually appealing user interface.\n\n**From March 2020 - September 2021 (TechPros)**\n\n - Spearheaded the migration of a legacy monolithic application to a microservices architecture, resulting in improved scalability and reduced maintenance overhead.\n\n - Integrated payment gateways, enabling secure online transactions for users.\n\n - Mentored junior developers and conducted code reviews to maintain code quality.\n\n**Tech stack**\n\n- Languages: JavaScript (Node.js), Python\n- Databases: MongoDB, MySQL\n- Frontend: React\n- Backend: Express.js, Flask\n- DevOps: Docker, Kubernetes, Jenkins\n- Project Management: Agile, Scrum, JIRA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    p {
+        margin: 0.3rem 0
+    }
+}
+
+
+html {
+    font-size: 14px;
+}
+
+th {
+    font-weight: 600;
+}
+
+#cv ul {
+    list-style: unset;
+    padding-inline-start: 2rem;
+}
+
+#cv ul li {
+    list-style-type: none;
+}
+
+#cv ul li:before {
+    content: '• ';
+    margin-left: -1em;
+    position: absolute;
+}
